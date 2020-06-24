@@ -58,7 +58,8 @@ body {
 #weare{
   text-align: left;
   padding:500px 20px;
-  margin-top:250px
+  margin-top:250px;
+  position:absolute;
   
 }
 #were{
