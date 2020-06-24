@@ -26,6 +26,7 @@ body {
 .nav ul li a{
   color:white;
   padding:5px;
+    margin-right:4px;
 }
 .nav ul li{
   display:inline-block;
@@ -57,7 +58,7 @@ body {
 #weare{
   text-align: left;
   padding:500px 20px;
-  
+  margin-top:250px
   
 }
 #were{
