@@ -56,10 +56,12 @@ body {
   color:#539934;
 }
 #weare{
-  text-align: left;
+  position:absolute;
+  left:0;
+  top:250px;
   padding:500px 20px;
   margin-top:250px;
-  position:relative;
+  
   
 }
 #were{
