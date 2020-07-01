@@ -62,7 +62,7 @@ body {
 #page-banner{
   width:90%;
   text-align:center;
-  border:5px solid;
+  border:5px solid silver;
   height:200px;
   border-style:ridge;
   background:#C6C5B9;
@@ -75,7 +75,7 @@ body {
 }
 #welcome-message{
   text-align:center;
-  border:5px solid;
+  border:5px solid silver;
   margin:30px;
   border-style:ridge;
   background:#C6C5B9;
@@ -84,7 +84,7 @@ body {
   font-variant: small-caps;
 }
 .about{
-  border:5px solid;
+  border:5px solid silver;
   text-align:center;
   margin:30px;
   border-style:ridge;
@@ -114,7 +114,7 @@ body {
   text-align: center;
   height:200px;
   margin:20px;
-  border:5px solid;
+  border:5px solid silver;
   border-style:ridge;
   background:#C6C5B9;
 }
@@ -126,7 +126,7 @@ body {
   }
 }
 .article{
-  border:5px solid;
+  border:5px solid silver;
   text-align:center;
   width:90%;
   margin:30px;
