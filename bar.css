@@ -1,0 +1,58 @@
+.sidebar{
+  position:fixed;
+  float:left;
+  left:-250px;
+  background:#64656E;
+  height:100%;
+  transition:left 0.4s ease;
+}
+.sidebar.show{
+  left:0px;
+}
+.sidebar li{
+  
+  padding:10px 15px;
+}
+nav ul a{
+  color:#000000;
+  border-left: 3px solid transparent;
+  display:block;
+  margin:5px;
+  
+}
+nav ul a:hover{
+  color:#898BA6;
+  border-left: 3px solid #898BA6;
+}
+nav ul li{
+  border-bottom:2px solid #777882;
+  left:2px;
+}
+ .btn{
+  position:fixed;
+  top:10px;
+  border-radius:3px;
+  text-align:center;
+  margin:3px;
+  left:0px;
+  color:#727273;
+  background:#292A32;
+  width:35px;
+  transition: left 0.4s ease;
+}
+.btn.click
+{
+  left:150px;
+  background: #0A0C1D;
+  top:0;
+  width:40px;
+  color: #232A70;
+}
+.btn i {
+ text-align: center; 
+ font-size: 25px;
+ line-height: 45px;
+}
+.btn.click i:before {
+  content:'\f00d';
+}
