@@ -56,3 +56,17 @@ nav ul li{
 .btn.click i:before {
   content:'\f00d';
 }
+@media only screen and (max-width: 600px) {
+  .btn {
+    width: 25px;
+    border-radius:3px;
+  }
+}
+@media only screen and (max-width: 768px) {
+
+  /* For mobile phones: */
+  .btn{
+    width:28px;
+  }
+  }
+}
